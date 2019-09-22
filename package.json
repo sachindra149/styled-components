@@ -1,7 +1,6 @@
 {
   "name": "projectsetup",
   "version": "1.0.0",
-  "description": "",
   "main": "index.jsx",
   "scripts": {
     "build:dev": "cross-env NODE_ENV=development webpack --mode development",
@@ -54,5 +53,7 @@
     "webpack": "^4.40.2",
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.8.1"
-  }
+  },
+  "dependencies": {},
+  "description": ""
 }
